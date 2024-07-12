@@ -3,8 +3,6 @@
 </div>
 <img src="https://github.com/user-attachments/assets/79d6e058-607d-4459-942c-233c9a783eef">
 
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
 ## Sobre mi
 
 - ⭐ Estrella de Github ⭐ 
@@ -16,8 +14,7 @@
 <a href = 'https://discord.gg/X79aFu6XG6'> <img width = '100px' align= 'center' src="https://github.com/user-attachments/assets/ffde2add-02a6-4582-a70a-66c8dba6e043"/></a> 
 <a href = 'https://www.instagram.com/04_useer/'> <img width = '52px' align= 'center' src="https://github.com/user-attachments/assets/94452bf1-80d6-4ba8-a560-aaeef53c6d28"/></a> 
 
-
-### ⚙️ &nbsp;GitHub Analytics
+## GitHub Habilidades
 
 <p align="center">
 <a href="https://github.com/ELLPOLOLO">
