@@ -11,6 +11,10 @@
 - 📲 Aprendiz de CiberSeguridad y Programacion
 - 🎥 Enfocado en Explotacion Web
 
+## Sigueme en mis redes
+
+<a href = 'https://discord.gg/X79aFu6XG6'> <img width = '32px' align= 'center' src="https://github.com/user-attachments/assets/ffde2add-02a6-4582-a70a-66c8dba6e043"/></a> 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
