@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/ELLPOLOLO">ELLPOLOLO</a> 👋</h1>
 </div>
-<img src="https://imgur.com/gallery/anime-discord-banner-bWuOQn5">
+<img src="[https://imgur.com/gallery/anime-discord-banner-bWuOQn5](https://images.hdqwalls.com/download/anime-girl-soulful-stare-at-cityscape-pg-2560x1440.jpg)">
 
 ## Sobre mi
 
