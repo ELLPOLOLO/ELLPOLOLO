@@ -3,6 +3,8 @@
 </div>
 <img src="https://github.com/user-attachments/assets/79d6e058-607d-4459-942c-233c9a783eef">
 
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
 ## Sobre mi
 
 - ⭐ Estrella de Github ⭐ 
