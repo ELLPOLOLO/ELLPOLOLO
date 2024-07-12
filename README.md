@@ -14,7 +14,7 @@
 ## Sigueme en mis redes
 
 <a href = 'https://discord.gg/X79aFu6XG6'> <img width = '100px' align= 'center' src="https://github.com/user-attachments/assets/ffde2add-02a6-4582-a70a-66c8dba6e043"/></a> 
-<a href = 'https://www.instagram.com/04_useer/'> <img width = '50px' align= 'center' src="https://github.com/user-attachments/assets/94452bf1-80d6-4ba8-a560-aaeef53c6d28"/></a> 
+<a href = 'https://www.instagram.com/04_useer/'> <img width = '55px' align= 'center' src="https://github.com/user-attachments/assets/94452bf1-80d6-4ba8-a560-aaeef53c6d28"/></a> 
 
 
 ### ⚙️ &nbsp;GitHub Analytics
