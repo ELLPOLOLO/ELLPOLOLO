@@ -14,6 +14,8 @@
 ## Sigueme en mis redes
 
 <a href = 'https://discord.gg/X79aFu6XG6'> <img width = '100px' align= 'center' src="https://github.com/user-attachments/assets/ffde2add-02a6-4582-a70a-66c8dba6e043"/></a> 
+<a href = 'https://www.instagram.com/04_useer/'> <img width = '100px' align= 'center' src="https://github.com/user-attachments/assets/3fa53754-04f0-438e-8502-b7ef43b16f20"/></a> 
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
