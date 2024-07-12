@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/ELLPOLOLO">ELLPOLOLO</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/8vr5Yqq">
+<img src="https://imgur.com/TTSIEJT">
 
 ## Sobre mi
 
